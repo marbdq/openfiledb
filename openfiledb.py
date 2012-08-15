@@ -1,4 +1,4 @@
-__author__ = ''
+__author__ = 'Miguel Rodriguez'
 __version__ = 0.01
 
 from sys import exit
