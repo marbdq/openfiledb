@@ -1,5 +1,5 @@
 __author__ = 'Miguel Rodriguez'
-__version__ = 0.01
+__version__ = 0.02
 
 from sys import exit
 import requests
